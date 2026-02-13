@@ -1,12 +1,12 @@
-# 📱 Motivation - healthy dose – Personalized Daily Quotes
+# 📱 Motivise – Personalized Daily Quotes
 
-Welcome to Motivation, your personal motivation coach. This app delivers quotes tailored to your goals, lifestyle, and inspiration sources—bringing you motivation that truly speaks to you.
+Welcome to Motivise, your personal motivation coach. This app delivers quotes tailored to your goals, lifestyle, and inspiration sources—bringing you motivation that truly speaks to you.
 
 ---
 
-## ✨ What Makes Motivation Unique?
+## ✨ What Makes Motivise Unique?
 
-MotivationalQ goes beyond random quotes. It uses intelligent personalization to match quotes to:
+Motivise goes beyond random quotes. It uses intelligent personalization to match quotes to:
 
 - **Your Goals**: Success, happiness, health, career, mindfulness
 - **Your Life Stage**: Student, professional, entrepreneur, parent, retired
@@ -87,7 +87,7 @@ Bring your favorite quotes with you:
 
 ## 🖥️ Works Everywhere
 
-MotivationalQ is a universal app:
+Motivise is a universal app:
 
 - iPhone, iPad, Mac, and Vision Pro  
 - Seamless iCloud sync across devices  
@@ -99,7 +99,7 @@ MotivationalQ is a universal app:
 
 - No tracking or ads  
 - No account required  
-- All data stored locally  
+- All data is stored locally  
 - Optional iCloud sync  
 
 ---
@@ -107,11 +107,12 @@ MotivationalQ is a universal app:
 ## 📞 Support
 
 Need help or want to contribute your own quotes?  
-📧 Email us at [support@motivationalq.com](mailto:g.innerpeacemaster@gmail.com)
+📧 Email us at [support@motivise.com](mailto:g.innerpeacemaster@gmail.com)
 
 ---
 
 ## 🚀 Start Your Journey
 
-Download MotivationalQ and discover motivation that truly speaks to you.  
+Download Motivise and discover motivation that truly speaks to you. 
+
 **Your motivation deserves personalization.**
