@@ -1,107 +1,146 @@
-## Single-page HTML (paste into `index.html`)
+# 📱 Motivise — A calmer way to start your day
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Motivise — A calmer way to start your day</title>
-  <meta name="description" content="Daily quotes, breath, focus, sleep, journal, vision board, and habits — in one calm app. Free on iOS and Android.">
-  <style>
-    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 32px 20px; color: #1a1a2e; line-height: 1.6; }
-    h1 { font-size: 38px; margin: 0 0 8px; }
-    .tagline { color: #555; font-size: 18px; margin-bottom: 36px; }
-    h2 { margin-top: 36px; font-size: 22px; }
-    ul { padding-left: 22px; }
-    .cta { display: inline-block; padding: 12px 22px; margin: 8px 8px 8px 0; background: linear-gradient(135deg, #667eea, #764ba2); color: #fff; text-decoration: none; border-radius: 10px; font-weight: 600; }
-    .cta.secondary { background: #f1f1f6; color: #333; }
-    footer { margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; color: #888; font-size: 14px; }
-    a { color: #667eea; }
-  </style>
-</head>
-<body>
+A daily quote. A calm wellness ritual. Five minutes that change your day.
 
-  <h1>Motivise</h1>
-  <p class="tagline">A daily quote. A calm wellness ritual. Five minutes that change your day.</p>
+Motivise turns your phone into a quiet daily companion. One quote sets your tone, then breathe, focus, journal, or wind down — your choice, one tap away. No social feed. No infinite scroll. Just the calm version of you, every day.
 
-  <a class="cta" href="https://apps.apple.com/app/idXXXXXXXXX">Download for iOS</a>
-  <a class="cta" href="https://play.google.com/store/apps/details?id=com.kreativeid.motivationalq">Download for Android</a>
-
-  <h2>What's inside</h2>
-  <ul>
-    <li>A hand-picked daily quote from 2,000+ curated lines</li>
-    <li>Breathing — Box, 4-7-8, Resonant</li>
-    <li>Focus — Pomodoro with ADHD, Standard, and Deep presets</li>
-    <li>Sleep — soundscapes, body scan, bedtime stories, wind-down breath</li>
-    <li>Gratitude journal + writing prompts</li>
-    <li>Vision board to picture where you're going</li>
-    <li>Habit tracker with gentle streaks and starter packs</li>
-    <li>Anonymous community pulse — see who else is practicing right now</li>
-  </ul>
-
-  <h2>Why us</h2>
-  <ul>
-    <li><strong>Generous free tier</strong> — journal, vision board, habits, breath, focus, sleep are all free.</li>
-    <li><strong>Private by default</strong> — no account, no tracking, no profile.</li>
-    <li><strong>30-day free trial</strong> on Premium.</li>
-    <li><strong>$1.99 / 3 months</strong> or <strong>$5.99 / year</strong> on iOS (€0.99 / €3.49 on Android).</li>
-  </ul>
-
-  <h2>Support</h2>
-  <p>Stuck or have feedback? Email <a href="mailto:motivisesupport@gmail.com">motivisesupport@gmail.com</a>.</p>
-
-  <footer>
-    <a href="https://billowy-andesaurus-8d5.notion.site/Privacy-Policy-for-Motivise-3063c1da341a80f7a1e4f56d911bda3e">Privacy Policy</a> ·
-    <a href="https://billowy-andesaurus-8d5.notion.site/Terms-of-Service-for-Motivise-3063c1da341a80ad8aa3cafc3167d061">Terms of Service</a>
-    <br><br>
-    © Motivise · Built with care.
-  </footer>
-
-</body>
-</html>
-```
+Available on **iOS** and **Android**.
 
 ---
 
-## Plain Markdown version (if you prefer to use Jekyll on GitHub Pages)
+## ✨ Why Motivise
 
-```markdown
-# Motivise
-
-**A daily quote. A calm wellness ritual. Five minutes that change your day.**
-
-[Download for iOS](https://apps.apple.com/app/idXXXXXXXXX) · [Download for Android](https://play.google.com/store/apps/details?id=com.kreativeid.motivationalq)
-
-## What's inside
-
-- A hand-picked daily quote from 2,000+ curated lines
-- Breathing — Box, 4-7-8, Resonant
-- Focus — Pomodoro (ADHD, Standard, Deep presets)
-- Sleep — soundscapes, body scan, bedtime stories, wind-down breath
-- Gratitude journal + writing prompts
-- Vision board to picture where you're going
-- Habit tracker with gentle streaks and starter packs
-- Anonymous community pulse — see who else is practicing right now
-
-## Why us
-
-- **Generous free tier** — journal, vision board, habits, breath, focus, sleep are all free.
-- **Private by default** — no account, no tracking, no profile.
-- **30-day free trial** on Premium.
-- **$1.99 / 3 months** or **$5.99 / year** on iOS (€0.99 / €3.49 on Android).
-
-## Support
-
-Email **motivisesupport@gmail.com**
-
-[Privacy Policy](https://billowy-andesaurus-8d5.notion.site/Privacy-Policy-for-Motivise-3063c1da341a80f7a1e4f56d911bda3e) · [Terms of Service](https://billowy-andesaurus-8d5.notion.site/Terms-of-Service-for-Motivise-3063c1da341a80ad8aa3cafc3167d061)
-```
+- **One calm dashboard** — not a chaotic feed
+- **Generous free tier** — journal, vision board, habits, breathing, focus, sleep all free
+- **Private by default** — no account, no tracking, no profile
+- **Gentle streaks** — two free freezes a month so a missed day doesn't reset you
+- **Anonymous community pulse** — see how many others are practicing right now
 
 ---
 
-## Notes
+## 🌿 What's inside
 
-- Replace `idXXXXXXXXX` with the real iOS App Store ID after first submission.
-- Replace `motivisesupport@gmail.com` with your real support address if different.
-- The same support email should match what's listed in the App Store + Play Store metadata so Apple/Google approvals link consistently.
+### Today
+A hand-picked daily quote drawn from **2,000+ curated lines**. Routine cards, active challenges, and quick-start chips for Breathe · Focus · Journal · Sleep — all in one scroll.
+
+### Calm
+- **Breathing** — Box, 4-7-8, and Resonant patterns
+- **Grounding** — 5-4-3-2-1 attention reset
+- **Meditation** — Body Scan, Muscle Relaxation, Loving-Kindness
+
+### Focus
+- **Pomodoro** with ADHD (15/5), Standard (25/5), and Deep (50/10) presets
+- Pre-focus breath warm-up
+- Ambient soundscapes (rain, forest, ocean, fire, wind)
+
+### Sleep
+- Soundscapes with fade-out sleep timer
+- Body Scan for sleep
+- Bedtime stories (Forest Cabin · Train at Night · Coastline at Dusk)
+- Wind-down 4-7-8 breath
+
+### Habits
+- Custom **Habit Tracker** with gentle streaks
+- **Starter packs** — Morning Calm, Sleep Hygiene, Movement
+- **Daily Routines** — morning + evening guided flows
+- **Challenges** — 7, 14, 21, and 30-day journeys
+
+### Reflect
+- **Gratitude Journal** with voice notes and writing prompts
+- **Vision Board** — drag-and-drop quotes, affirmations, and images
+- **My Affirmations** — record and play your own voice
+
+### Discover
+- Browse 2,000+ quotes by **category, author, mood, or search**
+- Create your **own quotes** (5 free, unlimited on Premium)
+- "Today on Motivise" — anonymous community counter showing live activity
+
+---
+
+## 🎨 Personalization
+
+- 12 gradient themes + photo backgrounds
+- Upload your own images (Premium)
+- Custom fonts, text shadows, frosted-glass style
+- Six share-card templates: Classic, Minimal, Bold, Elegant, Story, Dark
+
+---
+
+## 📱 Widgets
+
+- **iOS** — Home and Lock-screen widgets in 3 sizes with 15 background options
+- **Android** — Glance widget on the home screen
+- Updates daily; tap to refresh your quote
+
+---
+
+## 🔥 Streaks & insights
+
+- Daily streak tracking with milestone celebrations
+- **Activity card** with Lifetime and This-Month views
+- **Personal records** — longest streak, best week, days active
+- **Achievements strip** — earn and showcase badges
+- **Weekly comparison** — this week vs. last week
+
+---
+
+## 🌍 Today on Motivise
+
+Anonymous community counter shows live activity across all Motivise users:
+
+> 12K reading · 3K breathing · 1.5K journaling today
+
+No accounts. No identifiers. No profile data. Just a pulse of who's practicing right now. Opt out any time in Settings.
+
+---
+
+## 🔐 Privacy first
+
+- No tracking, no ads, no advertising IDs
+- No account required
+- Journal, vision board, and habits stay **on your device** (or your iCloud / Google Drive if you opt in)
+- Community pulse sends only the action type — never identity, IP, or content
+
+📄 [Privacy Policy](https://billowy-andesaurus-8d5.notion.site/Privacy-Policy-for-Motivise-3063c1da341a80f7a1e4f56d911bda3e)
+📄 [Terms of Service](https://billowy-andesaurus-8d5.notion.site/Terms-of-Service-for-Motivise-3063c1da341a80ad8aa3cafc3167d061)
+
+---
+
+## 💎 Premium
+
+Unlocks unlimited custom quotes, affirmation recordings, vision boards; 14/21/30-day challenges; custom photo backgrounds; premium themes and fonts; remove watermark; scheduled reminders; full analytics; cross-device sync.
+
+- **iOS** — $1.99 / 3 months · $5.99 / year
+- **Android** — €0.99 / 3 months · €3.49 / year
+- **30-day free trial** on first purchase
+
+Cancel anytime from your Apple ID or Google Play subscription settings.
+
+---
+
+## 🖥️ Works everywhere
+
+Motivise is a universal app:
+
+- **iOS** — iPhone, iPad, Mac (Catalyst), Vision Pro
+- **Android** — phones and tablets (Android 7.0+)
+- Optional **iCloud sync** on Apple devices
+
+---
+
+## 📞 Support
+
+Need help, want to send feedback, or have a quote to contribute?
+
+📧 **motivisesupport@gmail.com**
+
+---
+
+## 🚀 Get Motivise
+
+| Platform | Link |
+|---|---|
+| App Store (iOS) | (coming soon) |
+| Google Play (Android) | (coming soon) |
+
+Your motivation deserves personalization. Your wellness deserves calm.
