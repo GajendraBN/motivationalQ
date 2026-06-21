@@ -132,7 +132,7 @@ Motivise is a universal app:
 
 Need help, want to send feedback, or have a quote to contribute?
 
-📧 **motivisesupport@gmail.com**
+📧 **KreativeID@proton.me**
 
 ---
 
@@ -140,7 +140,7 @@ Need help, want to send feedback, or have a quote to contribute?
 
 | Platform | Link |
 |---|---|
-| App Store (iOS) | (coming soon) |
-| Google Play (Android) | (coming soon) |
+| App Store (iOS) | https://apps.apple.com/de/app/motivise/id6754845863?|
+| Google Play (Android) | play.google.com/store/apps/details?id=com.kreativeid.motivationalq |
 
 Your motivation deserves personalization. Your wellness deserves calm.
