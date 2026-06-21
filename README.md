@@ -140,7 +140,8 @@ Need help, want to send feedback, or have a quote to contribute?
 
 | Platform | Link |
 |---|---|
-| App Store (iOS) | https://apps.apple.com/de/app/motivise/id6754845863?|
-| Google Play (Android) | play.google.com/store/apps/details?id=com.kreativeid.motivationalq |
+| App Store (iOS) | https://apps.apple.com/de/app/motivise/id6754845863? |
+| Google Play (Android) | https://play.google.com/store/apps/details?id=com.kreativeid.motivationalq |
+
 
 Your motivation deserves personalization. Your wellness deserves calm.
